@@ -4,7 +4,7 @@
     <div class="content">
     	<div class="content_top">
     		<div class="heading">
-    		<h3>Latest from Iphone</h3>
+    		<h3>All Product</h3>
     		</div>
     		<div class="clear"></div>
     	</div>
@@ -38,12 +38,12 @@
 				     <div class="button"><span><a href="preview.php" class="details">Details</a></span></div>
 				</div>
 			</div>
-			<div class="content_bottom">
+			<!--<div class="content_bottom">
     		<div class="heading">
     		<h3>Latest from Acer</h3>
     		</div>
     		<div class="clear"></div>
-    	</div>
+    	   </div>
 			<div class="section group">
 				<div class="grid_1_of_4 images_1_of_4">
 					 <a href="preview-3.php"><img src="images/new-pic1.jpg" alt="" /></a>
@@ -70,7 +70,7 @@
 					 <p><span class="price">$457.88</span></p>   
 				     <div class="button"><span><a href="preview.php" class="details">Details</a></span></div>
 				</div>
-			</div>
+			</div>-->
     </div>
  </div>
 </div>

@@ -24,7 +24,8 @@
 <div class="wrap">
     <div class="header_top">
         <div class="logo">
-            <a href="index.php"><img src="images/logo.png" alt="" /></a>
+            <!--<a href="index.php"><img src="images/logo.png" alt="" /></a>-->
+            <a href="index.php"><p style="padding-top:30px;padding-left:30px;font-size: 35px;">Online Cable</p></a>
         </div>
         <div class="header_top_right">
             <div class="search_box">
@@ -49,7 +50,7 @@
         <ul id="dc_mega-menu-orange" class="dc_mm-orange">
             <li><a href="index.php">Home</a></li>
             <li><a href="products.php">Products</a> </li>
-            <li><a href="topbrands.php">Top Brands</a></li>
+            <!--<li><a href="topbrands.php">Top Brands</a></li>-->
             <li><a href="cart.php">Cart</a></li>
             <li><a href="contact.php">Contact</a> </li>
             <div class="clear"></div>

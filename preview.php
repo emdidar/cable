@@ -12,7 +12,7 @@
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>					
 					<div class="price">
 						<p>Price: <span>$500</span></p>
-						<p>Category: <span>Laptop</span></p>
+						<!--<p>Category: <span>Laptop</span></p>-->
 						<p>Brand:<span>Samsnumg</span></p>
 					</div>
 				<div class="add-cart">
@@ -30,20 +30,18 @@
 				
 	</div>
 				<div class="rightsidebar span_3_of_1">
-					<h2>CATEGORIES</h2>
+					<h2>BRANDS</h2>
 					<ul>
-				      <li><a href="productbycat.php">Mobile Phones</a></li>
-				      <li><a href="productbycat.php">Desktop</a></li>
-				      <li><a href="productbycat.php">Laptop</a></li>
-				      <li><a href="productbycat.php">Accessories</a></li>
-				      <li><a href="productbycat.php#">Software</a></li>
-					   <li><a href="productbycat.php">Sports & Fitness</a></li>
-					   <li><a href="productbycat.php">Footwear</a></li>
-					   <li><a href="productbycat.php">Jewellery</a></li>
-					   <li><a href="productbycat.php">Clothing</a></li>
-					   <li><a href="productbycat.php">Home Decor & Kitchen</a></li>
-					   <li><a href="productbycat.php">Beauty & Healthcare</a></li>
-					   <li><a href="productbycat.php">Toys, Kids & Babies</a></li>
+				      <li><a href="productbycat.php">Brand-1</a></li>
+				      <li><a href="productbycat.php">Brand-2</a></li>
+				      <li><a href="productbycat.php">Brand-3</a></li>
+				      <li><a href="productbycat.php">Brand-4</a></li>
+				      <li><a href="productbycat.php">Brand-5</a></li>
+				      <li><a href="productbycat.php">Brand-6</a></li>
+				      <li><a href="productbycat.php">Brand-7</a></li>
+				      <li><a href="productbycat.php">Brand-8</a></li>
+				      <li><a href="productbycat.php">Brand-9</a></li>
+				      <li><a href="productbycat.php">Brand-10</a></li>
     				</ul>
     	
  				</div>
